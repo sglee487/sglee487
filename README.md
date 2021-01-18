@@ -1,16 +1,13 @@
-### Hi there 👋
+# projects
+## AI / Deep learning
 
-<!--
-**sglee487/sglee487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## frontend
+[svelte-trello-clone-app-snowpack](https://github.com/sglee487/svelte-trello-clone-app-snowpack)
+## backend
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# studies..
+
+[코딩테스트 대비 공부](https://github.com/sglee487/Coding-test)
+
+[이것이 안드로이드다 with 코틀린](https://github.com/sglee487/ThisisAndroidwithKotlin)
