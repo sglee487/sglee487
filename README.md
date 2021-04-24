@@ -12,7 +12,11 @@
 
 # projects
 ## AI / Deep learning
-[CV / 딥러닝](https://github.com/sglee487/ComputerVisions)
+[CV / 딥러닝](https://github.com/sglee487/ComputerVisions)  
+
+[마스크 착용 상태 분류](https://github.com/bcaitech1/p1-img-sglee487)  
+
+[문장 내 개체간 관계 추출](https://github.com/bcaitech1/p2-klue-sglee487)  
 
 ## frontend
 [svelte-trello-clone-app-snowpack](https://github.com/sglee487/svelte-trello-clone-app-snowpack)
