@@ -32,8 +32,9 @@
 
 [코딩테스트 대비 공부](https://github.com/sglee487/Coding-test)
 
-[점프 투 장고](https://github.com/sglee487/Jump-To-Django)
-[pybo 서비스](http://13.209.34.118:8000/)
+
+[점프 투 장고](https://github.com/sglee487/Jump-To-Django)  
+[pybo 서비스](http://13.209.34.118:8000/)  
 
 [pyspark](https://github.com/sglee487/pyspark_practice)
 
