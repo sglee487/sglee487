@@ -34,7 +34,7 @@
 
 
 [점프 투 장고](https://github.com/sglee487/Jump-To-Django)  
-[pybo 서비스](http://13.209.34.118:8000/)  
+~~[pybo 서비스]~~ (http://13.209.34.118:8000/) 공사중
 
 [pyspark](https://github.com/sglee487/pyspark_practice)
 
