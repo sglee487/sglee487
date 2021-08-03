@@ -14,7 +14,7 @@
 ## AI / Deep learning
 
 [초경량 이미지 분류기](https://github.com/bcaitech1/p4-mod-model_diet)  
-[데모 페이지](https://13.209.34.118:8000/)
+~~[데모 페이지]~~ (https://13.209.34.118:8000/) 공사중
 
 [재활용 품목 분류를 위한 Object Detection](https://github.com/bcaitech1/p3-ims-obd-doggum/tree/main/sanggeon_obd/mmdetection_trash)
 
