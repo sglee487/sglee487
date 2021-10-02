@@ -14,7 +14,7 @@
 ## AI / Deep learning
 
 [초경량 이미지 분류기](https://github.com/bcaitech1/p4-mod-model_diet)  
-~~[데모 페이지]~~ (https://13.209.34.118:8000/) 공사중
+[django 페이지](https://github.com/sglee487/trash7djangoProject)
 
 [재활용 품목 분류를 위한 Object Detection](https://github.com/bcaitech1/p3-ims-obd-doggum/tree/main/sanggeon_obd/mmdetection_trash)
 
@@ -30,7 +30,6 @@
 [svelte-trello-clone-app-snowpack](https://github.com/sglee487/svelte-trello-clone-app-snowpack)
 ## backend
 [점프 투 장고](https://github.com/sglee487/Jump-To-Django)  
-~~[pybo 서비스]~~ (http://13.209.34.118:8000/) 공사중
 
 [pyspark](https://github.com/sglee487/pyspark_practice)
 
