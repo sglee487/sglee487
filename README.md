@@ -13,6 +13,8 @@
 # projects
 ## AI / Deep learning
 
+[retinaface 개조한거](https://github.com/sglee487/Pytorch_Retinaface)
+
 [초경량 이미지 분류기](https://github.com/bcaitech1/p4-mod-model_diet)  
 [django 페이지](https://github.com/sglee487/trash7djangoProject)
 
