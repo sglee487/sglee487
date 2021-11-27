@@ -11,6 +11,9 @@
 
 
 # projects
+## Chrome extensions
+[유튜브 썸네일 보기](https://github.com/sglee487/view_thumbnail)
+
 ## AI / Deep learning
 
 [retinaface 개조한거](https://github.com/sglee487/Pytorch_Retinaface)
