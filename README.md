@@ -1,3 +1,12 @@
+# 공개 프로젝트
+## Chrome extensions
+[유튜브 썸네일 보기](https://github.com/sglee487/view_thumbnail)
+
+## 의료 계산기 (0.1.2+4)
+[의료 계산기 모바일 앱 (flutter)](https://github.com/sglee487/medical_calculator)
+
+[의료 계산기용 서버 (python)](https://github.com/sglee487/medical_calculator_api)
+
 # computer science & engineering
 [수치해석](https://github.com/sglee487/Numerical-analysis---class)
 
@@ -8,11 +17,6 @@
 [정보보호](https://github.com/sglee487/securityclass)
 
 [디지털신호처리](https://github.com/sglee487/Digital-signal-processing---class)
-
-
-# projects
-## Chrome extensions
-[유튜브 썸네일 보기](https://github.com/sglee487/view_thumbnail)
 
 ## AI / Deep learning
 
