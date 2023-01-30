@@ -1,6 +1,19 @@
 # 공개 프로젝트
 
-## 의료 계산기 (v0.1.2+4)
+## 의료 계산기 사이트
+https://isolia.shop/
+- frontend (vue3 + tailwindCSS)
+  - 모바일, 앱 화면 대응
+  - 게시판 글 작성, 무한 스크롤, 댓글작성 기능
+  - 의료 계산기 기능
+  - **다크모드지원 (제일 중요)**
+- backend (fastapi)
+  - jwt로 유저 세션 관리
+  - 게시물/댓글 작성, 불러오기 기능
+  - aws rds, 이미지는 s3로 저장, 인스턴스는 오라클 클라우드 사용
+  - nginx로 서버 설정
+
+## ~~의료 계산기 (v0.1.2+4)~~ (폐기됨)
 [의료 계산기 모바일 앱 | flutter ](https://github.com/sglee487/medical_calculator)
 
 [의료 계산기용 서버 | python django rest framework](https://github.com/sglee487/medical_calculator_api)
