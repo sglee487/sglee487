@@ -16,6 +16,10 @@ https://api.isolia.shop/docs
   - aws rds, 이미지는 s3에 저장, 인스턴스는 오라클 클라우드 사용
   - nginx로 서버 설정
 
+https://isolia.shop/more/minesweeper
+- 지뢰찾기 멀티
+  - gunicorn workers들 끼리 websocket과 redis로 통신
+
 ## ~~의료 계산기 (v0.1.2+4)~~ (폐기됨)
 [의료 계산기 모바일 앱 | flutter ](https://github.com/sglee487/medical_calculator)
 
