@@ -5,16 +5,16 @@ https://isolia.shop/
 
 
 https://api.isolia.shop/docs
-- frontend (vue3 + tailwindCSS)
-  - 모바일, 앱 화면 대응
-  - 게시판 글 작성, 무한 스크롤, 댓글작성 기능
-  - 의료 계산기 기능
-  - **다크모드 지원 (제일 중요)**
-- backend (fastapi)
+- backend (fastapi) [코드](https://github.com/sglee487/isolia_api)
   - jwt로 유저 세션 관리
   - 게시물/댓글 작성, 불러오기 기능
   - aws rds, 이미지는 s3에 저장, 인스턴스는 오라클 클라우드 사용
   - nginx로 서버 설정
+- frontend (vue3 + tailwindCSS) [코드](https://github.com/sglee487/isolia)
+  - 모바일, 앱 화면 대응
+  - 게시판 글 작성, 무한 스크롤, 댓글작성 기능
+  - 의료 계산기 기능
+  - **다크모드 지원 (제일 중요)**
 <br>
 
 https://isolia.shop/more/minesweeper
