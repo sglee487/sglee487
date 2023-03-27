@@ -18,7 +18,7 @@ https://api.isolia.shop/docs
 <br>
 
 https://isolia.shop/more/minesweeper
-- 지뢰찾기 멀티 [코드](https://github.com/sglee487/isolia_api/blob/main/sockets/minesweeper.py)
+- 지뢰찾기 멀티 [서버코드](https://github.com/sglee487/isolia_api/blob/main/sockets/minesweeper.py) [사이트코드](https://github.com/sglee487/isolia/blob/main/src/pages/morepages/MineSweeperPage.vue)
   - gunicorn worker들 끼리 websocket과 redis로 통신
 
 ## ~~의료 계산기 (v0.1.2+4)~~ (폐기됨)
