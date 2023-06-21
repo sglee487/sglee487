@@ -4,12 +4,11 @@
 https://isolia.shop/
 
 
-https://api.isolia.shop/docs
-- backend (fastapi) [코드](https://github.com/sglee487/isolia_api)
+- backend (kotlin spring boot) [코드](https://github.com/sglee487/isolia-spring-api.git)
   - jwt로 유저 세션 관리
   - 게시물/댓글 작성, 불러오기 기능
   - aws rds, 이미지는 s3에 저장, 인스턴스는 오라클 클라우드 사용
-  - nginx로 서버 설정
+  - nginx로 proxy
 - frontend (vue3 + tailwindCSS) [코드](https://github.com/sglee487/isolia)
   - 모바일, 앱 화면 대응
   - 게시판 글 작성, 무한 스크롤, 댓글작성 기능
@@ -19,7 +18,7 @@ https://api.isolia.shop/docs
 
 https://isolia.shop/more/minesweeper
 - 지뢰찾기 멀티 [서버코드](https://github.com/sglee487/isolia_api/blob/main/sockets/minesweeper.py) [사이트코드](https://github.com/sglee487/isolia/blob/main/src/mores/MineSweeper.vue)
-  - gunicorn worker들 끼리 websocket과 redis로 통신
+  - spring boot의 socket(STOMP) 활용
 
 ## ~~의료 계산기 (v0.1.2+4)~~ (폐기됨)
 [의료 계산기 모바일 앱 | flutter ](https://github.com/sglee487/medical_calculator)
