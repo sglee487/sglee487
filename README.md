@@ -3,6 +3,14 @@
 
 # 공개 프로젝트
 
+## 비디오 서비스
+[snserver](https://github.com/sglee487/snserver)
+[snclient](https://github.com/sglee487/snclient)
+
+- 비디오 및 스트리밍 서비스 만들려고 함..
+
+
+
 ## 의료 계산기 사이트
 [https://isolia.xyz/](http://isolia.xyz/)
 
