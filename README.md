@@ -12,7 +12,7 @@
 
 
 
-## 의료 계산기 사이트
+## 의료 계산기 사이트 (페기)
 [https://isolia.xyz/](http://isolia.xyz/)
 
 
