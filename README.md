@@ -4,9 +4,7 @@
 # 공개 프로젝트
 
 ## 비디오 서비스
-[snserver](https://github.com/sglee487/snserver)
-<br/>
-[snclient](https://github.com/sglee487/snclient)
+[snservice](https://github.com/sglee487/snservice)
 <br/>
 
 <img src="https://github.com/sglee487/sglee487/assets/33611003/1a73f236-158c-4c29-b1b0-73fd96f48157" width="500" height="500" />
