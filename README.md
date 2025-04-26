@@ -4,7 +4,7 @@
 # 공개 프로젝트
 
 ## 비디오 서비스
-https://web.snservice.uk/
+https://web.snservice.uk
 <br/>
 https://github.com/sglee487/snclient/releases
 <br/>
