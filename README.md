@@ -6,7 +6,7 @@
 ## 비디오 서비스
 https://web.snservice.uk/
 <br/>
-https://github.com/sglee487/snclient/releases/tag/0.1.0
+\https://github.com/sglee487/snclient/release
 <br/>
 <br/>
 [snservice](https://github.com/sglee487/snservice) : 전체
