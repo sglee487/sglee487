@@ -4,6 +4,11 @@
 # 공개 프로젝트
 
 ## 비디오 서비스
+https://web.snservice.uk/
+<br/>
+https://github.com/sglee487/snclient/releases/tag/0.1.0
+<br/>
+<br/>
 [snservice](https://github.com/sglee487/snservice) : 전체
 - [api-server](https://github.com/sglee487/snserver) : 서버 (Spring boot(Kotlin))
 - [cloud-stack(k3s)](https://github.com/sglee487/snservice-cloud-stack) : 클라우드 인프라 설정 (쿠버네티스(k3s)) 
