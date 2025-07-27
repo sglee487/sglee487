@@ -8,6 +8,7 @@
 - [cloud-stack(k3s)](https://github.com/sglee487/snservice-cloud-stack) : 클라우드 인프라 설정 (쿠버네티스(k3s)) 
 - [client](https://github.com/sglee487/loopin-client) : 클라이언트 (tauri(React + redux))
 
+- [디자인 초안 (figma)](https://www.figma.com/design/YQvd0fE7z0IZFZ2vrHfKBf/Loopin-YouTube-Redesign--Community-?node-id=2003-9293&t=DNo4ecIaJJjHoPYm-1)
 
 [웹 클라이언트](https://web.loopin.bid/)<br/><br/>
 <img width="500" alt="Screenshot 2025-07-27 215637" src="https://github.com/user-attachments/assets/9c90b48c-4d42-489a-b57f-b810efb276b8" />
