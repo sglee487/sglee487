@@ -11,7 +11,7 @@
 - [디자인 초안 (figma)](https://www.figma.com/design/YQvd0fE7z0IZFZ2vrHfKBf/Loopin-YouTube-Redesign--Community-?node-id=2003-9293&t=DNo4ecIaJJjHoPYm-1)
 
 [웹 클라이언트](https://web.loopin.bid/)<br/><br/>
-<img width="500" alt="Screenshot 2025-07-27 215637" src="https://github.com/user-attachments/assets/9c90b48c-4d42-489a-b57f-b810efb276b8" />
+<img width="500" alt="Screenshot 2025-07-27 215637" src="https://github.com/user-attachments/assets/9b8b5f23-0367-48c7-86fe-08a65cc98e75" />
 
 - 비디오 및 스트리밍 서비스 만들려고 했는데 유투브 플레이리스트 음악 듣기용으로 노선 트는 중
 
